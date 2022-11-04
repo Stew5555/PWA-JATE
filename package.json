@@ -29,5 +29,6 @@
   "bugs": {
     "url": "https://github.com/Stew5555/PWA-JATE/issues"
   },
-  "homepage": "https://github.com/Stew5555/PWA-JATE#readme"
+  "homepage": "https://github.com/Stew5555/PWA-JATE#readme",
+  "engines": {"node": "18.12.0"}
 }
